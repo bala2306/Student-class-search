@@ -33,7 +33,7 @@ A full-stack AI-powered course search prototype for UIUC Spring 2026. Students t
            │
   ┌────────▼────────┐
   │  OpenAI API     │
-  │  GPT-3.5-turbo  │
+  │  GPT-4o mini    │
   │  (intent parse) │
   └─────────────────┘
 ```
