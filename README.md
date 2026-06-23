@@ -291,15 +291,6 @@ cd backend
 python -m scripts.ingest_local 3
 # Runs only step 3 (graph build); ingestion now has 3 steps
 ```
-
-## License
-
-This is a candidate assignment project. All rights reserved.
-
-## Contact
-
-For questions or issues, please contact the project maintainer.
-
 ---
 
 **Assignment**: Student Class Search Application (Full-Stack + AI + Data Integration)
