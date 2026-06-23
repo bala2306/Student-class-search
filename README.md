@@ -25,7 +25,7 @@ This full-stack application demonstrates AI-powered natural language course sear
 
 ### Backend
 - **Framework**: FastAPI (Python 3.11+)
-- **AI/LLM**: OpenAI GPT-40 mini (function calling for structured extraction)
+- **AI/LLM**: OpenAI GPT-4o mini (function calling for structured extraction)
 - **Databases**:
   - PostgreSQL (Supabase) - Course catalog, schedules, instructors
   - Neo4j AuraDB - Knowledge graph for prerequisites and co-enrollment
@@ -49,7 +49,7 @@ This full-stack application demonstrates AI-powered natural language course sear
        │
        ▼
    ┌────────┐
-   │ OpenAI │  GPT-3.5-turbo (2-call pipeline)
+   │ OpenAI │  GPT-4omini (2-call pipeline)
    └────────┘
 ```
 
